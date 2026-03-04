@@ -108,5 +108,3 @@ python gtm_advisor.py --interactive
 MIT License — 欢迎 Fork、改造和贡献。
 
 ---
-
-*作者：晴子西西 · 基于华为2C业务GTM实战经验整理*

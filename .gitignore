@@ -1,0 +1,16 @@
+# 环境变量（包含 API Key，绝对不要提交）
+.env
+cli/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# 系统文件
+.DS_Store
+Thumbs.db
